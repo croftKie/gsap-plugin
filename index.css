@@ -1,0 +1,9 @@
+.actions-items{
+    width: 40%;
+}
+
+.action-item{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
